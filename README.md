@@ -4,4 +4,4 @@ Simple Youtube Viewer
 - This allows the producer to collect data around the emotional reactions of its audience
 - The producer uses that data to adjust the scene accordingly in order to achieve the desired emotional reaction
 
-![Alt Text](https://giant.gfycat.com/CapitalFirsthandCur.gif)
+![Alt Text](https://thumbs.gfycat.com/CapitalFirsthandCur-size_restricted.gif)
